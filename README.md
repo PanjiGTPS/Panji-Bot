@@ -1,4 +1,4 @@
-# NfQ-BoT
+# 𝗣𝗔𝗡𝗝𝗜 𝗕𝗢𝗧 𝗕𝗘𝗧𝗔
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
