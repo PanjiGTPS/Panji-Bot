@@ -8,7 +8,7 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/Arya274/Arya-Bot
+> git clone https://github.com/PanjiGTPS/Panji-Bot
 > cd Arya-Bot
 > npm install
 ```
@@ -21,7 +21,7 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Arya274/Arya-Bot
+> git clone https://github.com/PanjiGTPS/Panji-Bot
 > cd Arya-Bot
 > npm install
 ```
@@ -31,6 +31,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: @arpunchs
+ Instagram: _panji_gtps
  
- Youtube: Drawl Nag
+ Youtube: Panji GTPS
